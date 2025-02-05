@@ -7,7 +7,7 @@ A VS Code Extension that allows you to talk to DeepSeek-R1 locally.
 DeepSeek-R1's thoughts are italicized and grey. Its response is white.
 
 
-\!\[feature X\]\(media/VS-DeepSeek-Animation.gif\)
+![feature X](./media/VS-DeepSeek-Animation.gif)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
