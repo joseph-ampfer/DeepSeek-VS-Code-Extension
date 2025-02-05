@@ -134,7 +134,7 @@ function getWebviewContent() {
 						//const processedText = processResponse(text);
 
 						document.getElementById('response').innerHTML = text;
-						document.getElementById('copy').innerText = text;
+						//document.getElementById('copy').innerText = text;
 					}
 				});
 
