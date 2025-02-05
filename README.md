@@ -1,14 +1,13 @@
-# vs-deepseek-ext README
+# DeepSeek VS Code Extension
 
-This is the README for your extension "vs-deepseek-ext". After writing up a brief description, we recommend including the following sections.
+A VS Code Extension that allows you to talk to DeepSeek-R1 locally.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+DeepSeek-R1's thoughts are italicized and grey. Its response is white.
 
-For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
+\!\[feature X\]\(media/VS-DeepSeek-Animation.gif\)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
