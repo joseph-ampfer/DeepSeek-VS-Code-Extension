@@ -9,7 +9,7 @@ DeepSeek-R1's thoughts are italicized and grey. Its response is white.
 
 ![feature X](./media/VS-DeepSeek-Animation.gif)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+> Tip: Local models can run slower than what you are used to.
 
 ## Requirements
 
